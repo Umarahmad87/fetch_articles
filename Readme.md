@@ -1,6 +1,6 @@
 ## Installing Requirements
 
-* pip install -r requirements
+* pip install -r requirements.txt
 
 ## Running Script
 
